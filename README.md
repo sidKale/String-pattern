@@ -1,1 +1,1 @@
-# String-pattern
+# Python program to print String-pattern
